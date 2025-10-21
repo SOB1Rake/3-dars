@@ -1,0 +1,14 @@
+a{
+  text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+.nav_list{
+  display: flex;
+  gap: 20px;
+}
